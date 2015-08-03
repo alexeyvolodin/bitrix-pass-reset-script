@@ -1,0 +1,1 @@
+# bitrix-pass-reset-script
